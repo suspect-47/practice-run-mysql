@@ -3,14 +3,10 @@
 This repository contains my **SQL practice exercises (run 1–15)**, progressively built in difficulty.  
 The queries were executed in **MySQL**, focusing on mastering foundational SQL concepts and gradually advancing toward more complex operations.
 
----
-
 ## 📌 Project Overview
 - Database: `customer`, `customer_dim`, `order_dim`
 - Tools: **MySQL Workbench** **AWS Cloud**
 - Structure: Queries are organized as **run 1 → run 15** with increasing complexity.
-
----
 
 ## 🧩 Practice Task Coverage
 
@@ -43,7 +39,3 @@ The queries were executed in **MySQL**, focusing on mastering foundational SQL c
   - Using aggregate functions effectively
   - Understanding query logic flow
   - Handling grouped results and filtering
-
----
-
-## 📂 Repository Structure
